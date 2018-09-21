@@ -25,13 +25,11 @@ article {
 header,footer {
     background: #80DED9;
     color: #000;
-    border: 2px solid;
 }
 
 aside{
   background: #E8DAC7; /* must change */
   color: #000;
-  border: 1px solid;
 }
 
 figure{
